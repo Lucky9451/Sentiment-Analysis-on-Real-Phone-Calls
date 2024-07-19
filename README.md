@@ -69,7 +69,7 @@ It allows you to create a new team, open an existing team, save your team, and f
 3. **Emotion Distribution with Polarity & Subjectivity**: 
 - **Emotion Distribution:** A bar graph showing the distribution of different emotions detected in the transcribed text. This visualization helps in understanding the frequency of each emotion.
 - **Polarity & Subjectivity:** A bar graph representing the polarity and subjectivity of the text. Polarity indicates the sentiment orientation, while subjectivity reflects the degree of opinion expressed.
-- ![Emotion Distribution with Polarity & Subjectivity](Screenshots/Emotion_Distribution_with_Polarity&Subjectivity.png)
+- ![Emotion Distribution with Polarity & Subjectivity](Screenshots/Emotion_Distribution(Polarity_&_Subjectivity).png)
 
 4. **Terminal Output**: 
 This screenshot showcases the terminal output of the sentiment analysis process. It displays the following details:
