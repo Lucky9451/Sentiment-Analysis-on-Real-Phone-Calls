@@ -59,11 +59,11 @@ python main.py
 #### RESULT OF PYTHON PROJECT
 
 1. **Main GUI:** 
- You can see the players of each category by selecting the category. To begin with, the selection is disabled until a new team is created from the Manage Teams menu. A pop-up asking the name of the team appears.
+  The main graphical user interface of the application, featuring buttons for uploading recordings or using the microphone, and a text display area for showing transcribed text.
    - ![Opening Screen](Screenshots/Main_GUI.png)
 
 2. **Transcribed Text:** 
-It allows you to create a new team, open an existing team, save your team, and finally evaluate the score of a saved team.
+The transcribed text from a phone call, is displayed in the text area of the application. This text is prepared for sentiment analysis.
    - ![Transcribed Text](Screenshots/Transcribted_Text.png)
 
 3. **Emotion Distribution with Polarity & Subjectivity**: 
